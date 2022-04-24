@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Brief Summary
+about: Report a Bug, Glitch, or Unexpected Behavior
 title: "[Bug Report] - User Submitted"
 labels: bug
 assignees: ChuckTerry
