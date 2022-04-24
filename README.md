@@ -21,7 +21,7 @@ Blazey Torture was built on the new app system on Chaturbate, so the app will on
 
 | Setting      | Description |
 | ----------- | ----------- |
-| Broadcaster Name     | This will be the name the app uses for the broadcaster.  Leaving this blank will use the room name instead.      |
+| Broadcaster Name     | This will be the name the app uses for the broadcaster.  Leaving this blank will use the room owner name instead.      |
 | Tip Options Timer  | How often the dynamic tip options will be displayed in the chat window, in minutes.    |
 | Warmup Lockouts  | Either `All Settings` or `Instacum Only`.  Choosing `All Settings` will cause the app to ignore all Toy Control features for the time duration specified in `Warmup Duration.`  Choosing `Instacum Only` will cause `Instacum` to be unavailable until the timer has elapsed.  |
 | Warmup Duration  | Duration, in minutes, for the `Warmup timer` to run in the background.  |
