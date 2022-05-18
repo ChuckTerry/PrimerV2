@@ -1,4 +1,4 @@
-# Blazey Torture  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChuckTerry%2FPrimerV2&count_bg=%232E8061&title_bg=%23555555&icon=&icon_color=%239C3A3A&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Broadcasters -  8 ](https://img.shields.io/badge/Broadcasters-_8_-4e8aaa?logo=https%3A%2F%2Ftheme.zdassets.com%2Ftheme_assets%2F9047795%2F0a1509944ae68221459023756a55d2ada890acfd.png)](https://github.com/ChuckTerry/PrimerV2/edit/main/README.md)
+# Blazey Torture  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChuckTerry%2FPrimerV2&count_bg=%232E8061&title_bg=%23555555&icon=&icon_color=%239C3A3A&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Broadcasters -  36 ](https://img.shields.io/badge/Broadcasters-_36_-4e8aaa?logo=https%3A%2F%2Ftheme.zdassets.com%2Ftheme_assets%2F9047795%2F0a1509944ae68221459023756a55d2ada890acfd.png)](https://github.com/ChuckTerry/PrimerV2/edit/main/README.md)
 Blazey Torture is a Chaturbate applicated designed and built to accomodate various "Torture" settings for numerous toys, mainly Sybians.
 
 ## Features 
